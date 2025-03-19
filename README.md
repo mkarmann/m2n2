@@ -3,11 +3,12 @@ Official implementation of "**Repurposing Stable Diffusion Attention for Trainin
 
 ![Thumbnail](images/thumbnail.png "Thumbnail")
 
+Source code will be realeased soon.
 
 ## 🚀 Installation
 ### Clone the Repository
 ```bash
-git clone <anonymized>
+git clone https://github.com/mkarmann/m2n2.git
 cd m2n2
 ```
 ### Create and Activate Conda Environment
