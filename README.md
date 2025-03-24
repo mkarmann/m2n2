@@ -99,13 +99,11 @@ Detailed per-instance evaluation metrics will be stored in `./out/<dataset_name>
 ## 🖊️ Citation
 If you find this work helpful, please consider citing our paper.
 ```bibtex
-@misc{karmann2024repurposingstablediffusionattention,
-      title={Repurposing Stable Diffusion Attention for Training-Free Unsupervised Interactive Segmentation}, 
-      author={Markus Karmann and Onay Urfalioglu},
-      year={2024},
-      eprint={2411.10411},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2411.10411}, 
+@InProceedings{M2N2,
+    author = {Karmann, Markus and Urfalioglu, Onay},
+    title = {Repurposing Stable Diffusion Attention for Training-Free Unsupervised Interactive Segmentation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month = {June},
+    year = {2025}
 }
 ```
